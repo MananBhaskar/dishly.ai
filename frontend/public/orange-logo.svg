@@ -1,0 +1,78 @@
+<svg width="440" height="335" viewBox="120 88 440 335" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Dishly.ai Logo</title>
+  <desc>Dishly.ai vibrant food platform logo with transparent background, bold bowl icon and colorful food toppings</desc>
+  <defs>
+    <style>
+      .bowl { fill: #FF4D1C; }
+      .bowl-rim { fill: #FF4D1C; }
+      .bowl-inner { fill: #FF6B3D; }
+      .bowl-shadow { fill: #CC3000; opacity: 0.3; }
+      .food-green { fill: #2ECC71; }
+      .food-green-dk { fill: #27AE60; }
+      .food-red { fill: #FF2D55; }
+      .food-red-dk { fill: #C0392B; }
+      .food-yellow { fill: #FFD020; }
+      .food-yellow-dk { fill: #F39C12; }
+      .food-orange { fill: #FF8C00; }
+      .food-purple { fill: #9B59B6; }
+      .food-white { fill: #FFFFFF; }
+      .steam { fill: none; stroke: #FF4D1C; stroke-width: 3; stroke-linecap: round; }
+      .fork-spoon { fill: #FF4D1C; }
+      .word-dark { font-family: 'Arial Black', 'Helvetica Neue', sans-serif; font-size: 96px; font-weight: 900; fill: #1C1C1C; letter-spacing: -4px; }
+      .word-color { font-family: 'Arial Black', 'Helvetica Neue', sans-serif; font-size: 96px; font-weight: 900; fill: #FF4D1C; letter-spacing: -4px; }
+      .ai-badge-bg { fill: #FF4D1C; }
+      .ai-badge-text { font-family: 'Arial Black', sans-serif; font-size: 22px; font-weight: 900; fill: #FFFFFF; }
+      .sub { font-family: 'Arial', sans-serif; font-size: 12px; font-weight: 700; fill: #888888; letter-spacing: 5px; }
+      .dot-dec { fill: #FF4D1C; opacity: 0.18; }
+    </style>
+  </defs>
+
+  <circle cx="118" cy="148" r="6" class="dot-dec"/>
+  <circle cx="140" cy="128" r="4" class="dot-dec"/>
+  <circle cx="100" cy="126" r="4" class="dot-dec"/>
+  <circle cx="558" cy="248" r="6" class="dot-dec"/>
+  <circle cx="578" cy="230" r="4" class="dot-dec"/>
+  <circle cx="538" cy="232" r="4" class="dot-dec"/>
+
+  <ellipse cx="344" cy="278" rx="92" ry="14" class="bowl-shadow"/>
+
+  <path d="M196 192 Q196 298 340 298 Q484 298 484 192 Z" class="bowl"/>
+  <rect x="189" y="184" width="302" height="22" rx="11" class="bowl-rim"/>
+  <path d="M220 205 Q220 280 340 280 Q460 280 460 205 Z" class="bowl-inner" opacity="0.4"/>
+
+  <ellipse cx="268" cy="238" rx="30" ry="19" class="food-green"/>
+  <ellipse cx="258" cy="230" rx="18" ry="12" class="food-green-dk"/>
+  <circle cx="340" cy="224" r="23" class="food-red"/>
+  <circle cx="340" cy="224" r="14" class="food-red-dk"/>
+  <circle cx="334" cy="219" r="5" fill="#E74C3C" opacity="0.6"/>
+  <ellipse cx="412" cy="240" rx="27" ry="17" class="food-yellow"/>
+  <ellipse cx="412" cy="240" rx="16" ry="10" class="food-yellow-dk"/>
+  <circle cx="294" cy="260" r="13" class="food-purple"/>
+  <circle cx="387" cy="258" r="11" class="food-orange"/>
+  <circle cx="330" cy="250" r="4" class="food-white"/>
+  <circle cx="352" cy="254" r="3" class="food-white"/>
+  <circle cx="318" cy="260" r="3" class="food-white"/>
+  <circle cx="364" cy="246" r="4" class="food-white"/>
+
+  <path d="M292 184 Q281 162 292 144 Q303 126 291 110" class="steam"/>
+  <path d="M340 184 Q327 160 340 142 Q353 124 340 106" class="steam"/>
+  <path d="M388 184 Q377 162 388 144 Q399 126 387 110" class="steam"/>
+
+  <rect x="148" y="158" width="9" height="104" rx="4.5" class="fork-spoon"/>
+  <rect x="136" y="158" width="6" height="44" rx="3" class="fork-spoon"/>
+  <rect x="165" y="158" width="6" height="44" rx="3" class="fork-spoon"/>
+  <path d="M136 202 Q141 220 152.5 225 Q164 220 171 202" fill="#FF4D1C"/>
+
+  <rect x="519" y="178" width="9" height="92" rx="4.5" class="fork-spoon"/>
+  <ellipse cx="523" cy="165" rx="17" ry="23" class="fork-spoon"/>
+  <ellipse cx="523" cy="165" rx="10" ry="15" fill="#FF6B3D" opacity="0.5"/>
+
+  <rect x="476" y="98" width="74" height="36" rx="18" class="ai-badge-bg"/>
+  <text x="513" y="123" text-anchor="middle" class="ai-badge-text">.ai</text>
+
+  <text x="340" y="408" text-anchor="middle">
+    <tspan class="word-dark">dish</tspan><tspan class="word-color">ly</tspan>
+  </text>
+
+  <text x="340" y="446" text-anchor="middle" class="sub">YOUR AI FOOD COMPANION</text>
+</svg>
